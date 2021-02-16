@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0xCryptography", "0xCryptography.csproj", "{D4B0043C-134D-476E-98C7-316B16C50EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Password", "Password\Password.csproj", "{FA6BCDF2-209E-480D-8E13-4BC9DEA10005}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B0043C-134D-476E-98C7-316B16C50EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B0043C-134D-476E-98C7-316B16C50EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B0043C-134D-476E-98C7-316B16C50EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B0043C-134D-476E-98C7-316B16C50EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA6BCDF2-209E-480D-8E13-4BC9DEA10005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6BCDF2-209E-480D-8E13-4BC9DEA10005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6BCDF2-209E-480D-8E13-4BC9DEA10005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6BCDF2-209E-480D-8E13-4BC9DEA10005}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FBF27F91-6504-451A-8D03-7B646FC03C72}
+	EndGlobalSection
+EndGlobal

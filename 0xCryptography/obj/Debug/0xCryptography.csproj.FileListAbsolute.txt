@@ -1,0 +1,11 @@
+G:\Projetos\0xCryptography\bin\Debug\0xCryptography.exe.config
+G:\Projetos\0xCryptography\bin\Debug\0xCryptography.exe
+G:\Projetos\0xCryptography\bin\Debug\0xCryptography.pdb
+G:\Projetos\0xCryptography\obj\Debug\0xCryptography.csprojAssemblyReference.cache
+G:\Projetos\0xCryptography\obj\Debug\_0xCryptography.Form1.resources
+G:\Projetos\0xCryptography\obj\Debug\_0xCryptography.Properties.Resources.resources
+G:\Projetos\0xCryptography\obj\Debug\0xCryptography.csproj.GenerateResource.cache
+G:\Projetos\0xCryptography\obj\Debug\0xCryptography.csproj.CoreCompileInputs.cache
+G:\Projetos\0xCryptography\obj\Debug\0xCryptography.exe
+G:\Projetos\0xCryptography\obj\Debug\0xCryptography.pdb
+G:\Projetos\0xCryptography\obj\Debug\_0xCryptography.EnterPassword.resources
