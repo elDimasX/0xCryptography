@@ -1,2 +1,2 @@
 # 0xCryptography
-Algumas ferramentas pra criptografia
+Algumas ferramentas para o uso de criptografia
