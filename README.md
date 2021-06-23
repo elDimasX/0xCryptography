@@ -1,8 +1,13 @@
 # 0xCryptography
-Algumas ferramentas para o uso de criptografia, ela inclui:
+Algumas ferramentas para o uso de criptografia.
 
-Protetor de programas - Para colocar senha em programas, e impedirem eles de serem abertos
+# Ferramentas
 
-Gerenciador de senhas - Guarda suas senhas em um local secreto E criptografado
+## Protetor de programas
+Coloca senha em programas, e impede que eles sejam abertos sem a senha correta
 
-Criptografador de arquivos - Criptografe todos os seus arquivos importantes
+## Gerenciador de senhas
+Guarda suas senhas em um local secreto e criptografado
+
+## Criptografia para arquivos
+Criptografe todos os seus arquivos importantes
